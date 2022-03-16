@@ -1,16 +1,13 @@
-### Hi there 👋
+# Loop Rolling for Code Size Reduction
 
-<!--
-**ShawnXPeng/ShawnXPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Group Members
+Xuan Peng, Zheng-lun WU
 
-Here are some ideas to get you started:
+## Project Proposal
+[Link to project proposal](https://github.com/ShawnXPeng/ShawnXPeng/blob/main/15745-proposal.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Milestone Report
+[Link to milestone report](https://github.com/ShawnXPeng/ShawnXPeng/blob/main/15745-proposal.pdf)
+
+## Final Report
+[Link to final report](https://github.com/ShawnXPeng/ShawnXPeng/blob/main/15745-proposal.pdf)
